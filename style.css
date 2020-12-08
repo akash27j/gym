@@ -1,0 +1,33 @@
+/* .left {
+  display: inline-block;
+  top: 20px;
+  left: 34px;
+
+  border: 2px solid red;
+}
+.mid {
+  display: inline-block;
+  top: 20px;
+  width: 33px;
+  margin: 20px auto;
+  border: 2px solid red;
+}
+.right {
+  position: absolute;
+  right: 34px;
+  top: 20px;
+  display: inline-block;
+  border: 2px solid red;
+}
+.navbar{
+    display: inline-block;
+
+}
+.navbar li{
+    display: inline-block;
+    color: white;
+}
+.navbar li a{
+    color: white;
+
+} */
